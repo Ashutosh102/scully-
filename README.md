@@ -19,3 +19,5 @@ To get started deploying Scully with Vercel, you can use the [Vercel CLI](https:
 ```shell
 $ vercel init scully
 ```
+## Sample
+![Screenshot (739)](https://user-images.githubusercontent.com/75971776/149365281-c54d6f79-9520-4140-ab3d-b3f2c8ccdd4e.png)
